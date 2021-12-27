@@ -71,12 +71,23 @@ hr{
 	background-color: #b9d9b9;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 750px) {
 
 	.btn{
 
-		padding: 15px 25px 15px 25px;
+		padding: 15px 15% 15px 15%;
+		width: 50%;
 
+	}
+
+	input{
+		height: 40px;
+		margin-bottom: 15px;
+	}
+
+	#header{
+
+		height: 100px;
 	}
 
 }
