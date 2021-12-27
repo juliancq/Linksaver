@@ -18,7 +18,7 @@ body{
 	cursor: pointer;
 	padding: 5px 15px 5px 15px;
 	margin-right: 3px;
-	color: white;
+	color: "white";
 }
 
 #title{
@@ -92,7 +92,8 @@ hr{
 	
 	body{
  		width: 80%;
- 	 	}
+ 	 }
+	
 	li{
 			
 		margin-bottom: 10px;
